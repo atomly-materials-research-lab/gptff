@@ -338,3 +338,7 @@ doi = {10.48550/arXiv.2607.21369},
 url = {https://arxiv.org/abs/2607.21369},
 }
 ```
+
+## License
+
+GPTFF is licensed under the [MIT License](LICENSE).
